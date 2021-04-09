@@ -1,0 +1,9 @@
+discord.py
+youtube-dl
+ffmpeg
+praw
+pynacl
+lavalink
+chat-exporter
+pymongo
+datetime
